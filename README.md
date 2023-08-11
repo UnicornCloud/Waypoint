@@ -1,2 +1,9 @@
 # Waypoint
-HashiCorp Waypoint - home: https://www.waypointproject.io/ learn: https://learn.hashicorp.com/waypoint
+HashiCorp Waypoint
+
+# Home:
+site: https://www.waypointproject.io/
+
+doc: https://developer.hashicorp.com/waypoint
+
+learn: https://learn.hashicorp.com/waypoint
